@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bpmn:definitions xmlns:bpmn="http://www.omg.org/spec/BPMN/20100524/MODEL" xmlns:bpmndi="http://www.omg.org/spec/BPMN/20100524/DI" xmlns:dc="http://www.omg.org/spec/DD/20100524/DC" xmlns:quantme="https://github.com/UST-QuAntiL/QuantME-Quantum4BPMN" id="Definitions_a1873c1" targetNamespace="http://bpmn.io/schema/bpmn" exporter="QuantME Modeler" exporterVersion="4.4.0"><bpmn:process id="Process_1701d7a" isExecutable="true"><quantme:quantumCircuitLoadingTask id="Task_63ad0c1" url="None/maxcut" /></bpmn:process></bpmn:definitions>
